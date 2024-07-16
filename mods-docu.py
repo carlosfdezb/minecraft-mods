@@ -4,6 +4,17 @@ import toml
 import urllib.parse
 import socket
 
+def leer_gitignore(ruta_gitignore):
+    patrones = []
+    with open(ruta_gitignore, 'r') as archivo:
+        for linea in archivo:
+            # Ignorar líneas en blanco y comentarios
+            linea = linea.strip()
+            if not linea or linea.startswith('#'):
+                continue
+            patrones.append(linea)
+    return patrones
+
 contenido_md = """
 # Listado de MODS
 """
@@ -11,8 +22,12 @@ nombre_archivo = "README.md"
 
 with open(nombre_archivo, 'w') as archivo:
     archivo.write(contenido_md)
+    
+ruta_gitignore = './.gitignore'
+gitignore = leer_gitignore(ruta_gitignore)
 
-jar_paths = [f for f in os.listdir('./') if f.endswith('.jar')]
+
+jar_paths = [f for f in os.listdir('./') if f.endswith('.jar') and f not in gitignore]
 
 toml_filename = 'META-INF/mods.toml'
 
@@ -45,3 +60,7 @@ for jar_path in jar_paths:
 """
                 with open(nombre_archivo, 'a') as archivo:
                     archivo.write(contenido_md)
+
+
+
+
