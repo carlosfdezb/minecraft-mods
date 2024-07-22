@@ -4,6 +4,9 @@
 - ### Ad Astra
     link: [modrinth.com](https://modrinth.com/mod/ad-astra)
 
+- ### The Aether
+    link: [modrinth.com](https://modrinth.com/mod/aether)
+
 - ### Alex's Mobs
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 
@@ -39,6 +42,7 @@
     link: [modrinth.com](https://modrinth.com/mod/creativecore)
 
 - ### Creeper Overhaul
+- ### Cristel Lib
 - ### Croptopia
 - ### ChoiceTheorem's Overhauled Village
     link: [github.com](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village)
@@ -50,6 +54,9 @@
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)
 
 - ### Duckling
+- ### When Dungeons Arise
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
+
 - ### Durability Tooltip
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip)
 
@@ -122,6 +129,9 @@
 - ### Macaw's Windows
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 
+- ### Mowzie's Mobs
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
+
 - ### Mutant Monsters
     link: [github.com](https://github.com/Fuzss/mutantmonsters)
 
@@ -169,12 +179,19 @@
     link: [modrinth.com](https://modrinth.com/datapack/tidal-towns)
 
 - ### Towers of the Wild Modded
+- ### Towns and Towers
 - ### Underground Bunkers
     link: [curseforge.com](https://curseforge.com/minecraft/mc-mods/underground-bunkers)
 
 - ### Unusual Prehistory
 - ### Visuality: Reforged
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/visuality-forge)
+
+- ### YUNG's API
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
+
+- ### YUNG's Bridges
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
 
 - ### SecurityCraft
     link: [discord.gg](https://discord.gg/U8DvBAW)
