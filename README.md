@@ -21,8 +21,14 @@
 - ### Bookshelf
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
 
+- ### Botania
+    link: [botaniamod.net](https://botaniamod.net)
+
 - ### Botarium
     link: [modrinth.com](https://modrinth.com/mod/botarium)
+
+- ### Camera Mod
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/camera-mod)
 
 - ### CasinoCraft
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/casinocraft)
@@ -31,12 +37,24 @@
 - ### Cerbons API
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/cerbons-api)
 
+- ### MrCrayfish's Furniture Mod
+    link: [mrcrayfish.com](https://mrcrayfish.com/mods?id=cfm)
+
 - ### Citadel
     link: [github.com](https://github.com/Alex-the-666/Citadel)
 
 - ### Cloth Config v10 API
 - ### Clumps
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/clumps)
+
+- ### CraftingTweaks
+    link: [mods.twelveiterations.com](https://mods.twelveiterations.com/mc/craftingtweaks)
+
+- ### Create
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/create)
+
+- ### CreativeCore
+    link: [modrinth.com](https://modrinth.com/mod/creativecore)
 
 - ### CreativeCore
     link: [modrinth.com](https://modrinth.com/mod/creativecore)
@@ -46,6 +64,9 @@
 - ### Croptopia
 - ### ChoiceTheorem's Overhauled Village
     link: [github.com](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village)
+
+- ### Cumulus
+    link: [modrinth.com](https://modrinth.com/mod/cumulus)
 
 - ### Curios API
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/curios)
@@ -81,6 +102,9 @@
 - ### Gravestone Mod
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
+- ### Handcrafted
+    link: [modrinth.com](https://modrinth.com/mod/handcrafted)
+
 - ### Illager Invasion
     link: [github.com](https://github.com/Fuzss/illagerinvasion)
 
@@ -95,6 +119,12 @@
 
 - ### Journeymap
     link: [journeymap.info](http://journeymap.info)
+
+- ### LittleFrames
+    link: [modrinth.com](https://modrinth.com/mod/littlepictureframes)
+
+- ### LittleTiles
+    link: [modrinth.com](https://modrinth.com/mod/littletiles)
 
 - ### Lucky77
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/lucky77)
@@ -142,6 +172,9 @@
 - ### Obscure Tooltips
 - ### Obscure API
 - ### OctoLib
+- ### Oculus
+    link: [curseforge.com](https://curseforge.com/minecraft/mc-mods/oculus)
+
 - ### Patchouli
 - ### PlayerRevive
     link: [modrinth.com](https://modrinth.com/mod/playerrevive)
@@ -149,6 +182,7 @@
 - ### Puzzles Lib
     link: [github.com](https://github.com/Fuzss/puzzleslib)
 
+- ### Quark
 - ### Raided
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/raided)
 
@@ -157,8 +191,16 @@
 
 - ### Resourcefulconfig
 - ### Resourceful Lib
+- ### Rustic Engineer
+    link: [mcreator.net](https://mcreator.net)
+
 - ### ServerSleep
     link: [modrinth.com](https://modrinth.com/datapack/serversleep)
+
+- ### Sophisticated Backpacks
+- ### Sophisticated Core
+- ### Sound Physics Remastered
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 
 - ### Stellarity
     link: [modrinth.com](https://modrinth.com/datapack/stellarity)
@@ -187,11 +229,15 @@
 - ### Visuality: Reforged
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/visuality-forge)
 
+- ### WaterMedia
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/watermedia)
+
 - ### YUNG's API
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 
 - ### YUNG's Bridges
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
 
+- ### Zeta
 - ### SecurityCraft
     link: [discord.gg](https://discord.gg/U8DvBAW)
