@@ -11,6 +11,9 @@
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 
 - ### Aquamirae
+- ### Balm
+    link: [mods.twelveiterations.com](https://mods.twelveiterations.com/)
+
 - ### BedBenefits
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
 
@@ -29,6 +32,9 @@
 
 - ### Camera Mod
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/camera-mod)
+
+- ### Carry On
+    link: [tschipp.ch](https://tschipp.ch)
 
 - ### CasinoCraft
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/casinocraft)
@@ -52,9 +58,6 @@
 
 - ### Create
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/create)
-
-- ### CreativeCore
-    link: [modrinth.com](https://modrinth.com/mod/creativecore)
 
 - ### CreativeCore
     link: [modrinth.com](https://modrinth.com/mod/creativecore)
@@ -120,6 +123,8 @@
 - ### Journeymap
     link: [journeymap.info](http://journeymap.info)
 
+- ### Just Zoom
+- ### Konkrete
 - ### LittleFrames
     link: [modrinth.com](https://modrinth.com/mod/littlepictureframes)
 
@@ -134,9 +139,6 @@
 
 - ### Macaw's Fences and Walls
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
-
-- ### Macaw's Furniture
-    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
 
 - ### Macaw's Furniture
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
