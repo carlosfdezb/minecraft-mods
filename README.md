@@ -10,7 +10,11 @@
 - ### Alex's Mobs
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 
+- ### Aquaculture 2
+    link: [minecraft.curseforge.com](https://minecraft.curseforge.com/projects/aquaculture)
+
 - ### Aquamirae
+- ### Automobility
 - ### Balm
     link: [mods.twelveiterations.com](https://mods.twelveiterations.com/)
 
@@ -53,6 +57,9 @@
 - ### Clumps
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/clumps)
 
+- ### Cluttered
+    link: [mcreator.net](https://mcreator.net)
+
 - ### CraftingTweaks
     link: [mods.twelveiterations.com](https://mods.twelveiterations.com/mc/craftingtweaks)
 
@@ -92,6 +99,9 @@
     link: [discord.gg](https://discord.gg/GZjtAn3F6W)
 
 - ### Epic Samurai
+- ### flib
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/flib)
+
 - ### Medieval Buildings [The End Edition]
 - ### Formations
     link: [legacy.curseforge.com](https://legacy.curseforge.com/minecraft/mc-mods/formations)
@@ -199,10 +209,17 @@
 - ### ServerSleep
     link: [modrinth.com](https://modrinth.com/datapack/serversleep)
 
+- ### Simple Storage Network
+    link: [minecraft.curseforge.com](https://minecraft.curseforge.com/projects/simple-storage-network)
+
+- ### Small Ships
 - ### Sophisticated Backpacks
 - ### Sophisticated Core
 - ### Sound Physics Remastered
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+
+- ### Stalwart Dungeons
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons)
 
 - ### Stellarity
     link: [modrinth.com](https://modrinth.com/datapack/stellarity)
@@ -224,15 +241,25 @@
 
 - ### Towers of the Wild Modded
 - ### Towns and Towers
+- ### The Twilight Forest
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+
 - ### Underground Bunkers
     link: [curseforge.com](https://curseforge.com/minecraft/mc-mods/underground-bunkers)
 
 - ### Unusual Prehistory
+- ### Useless Sword
+    link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/useless-sword)
+
+- ### Gliders
 - ### Visuality: Reforged
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/visuality-forge)
 
 - ### WaterMedia
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/watermedia)
+
+- ### Waystones
+    link: [mods.twelveiterations.com](https://mods.twelveiterations.com/mc/waystones)
 
 - ### YUNG's API
     link: [www.curseforge.com](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
